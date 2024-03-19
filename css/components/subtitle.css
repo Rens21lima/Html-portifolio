@@ -1,0 +1,9 @@
+h2{
+    color: rgb(182, 25, 25);
+    text-shadow: 3px 0px 0 black;
+    font-size: 30px;
+    text-align: left;
+    font-family: "Bebas Neue", sans-serif ;
+    padding-left: 90px;
+    padding-right: 50px;
+}
