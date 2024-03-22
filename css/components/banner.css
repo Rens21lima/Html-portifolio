@@ -1,0 +1,33 @@
+.banner{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    background-image: url(../../assets/img/page1_fundo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 855px ;
+    border-bottom: 10px solid #d62323;
+    padding-top: 115px;
+    
+
+    
+}
+
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    
+    width: 630px;
+}
+
+.banner .box{
+    margin-bottom: 40px ;
+}
+
+
+.banner .navegation{
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
+
