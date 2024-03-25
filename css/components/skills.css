@@ -1,0 +1,40 @@
+.skills{
+    display: flex;
+    justify-content: center;
+    height: 855px ;
+    background-color: #263764;
+    background-size: 100%;
+    box-sizing: border-box;
+    padding-top: 0%;
+
+}
+
+.skills .component1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.skills .title1{
+    
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 0px 0 black;
+    font-size: 50px ;
+    font-family: "Bebas Neue", sans-serif ;
+    text-align: center;
+}
+
+.skills .box1{
+    display: flex;
+    justify-content: center;
+    width: 960px;
+
+}
+
+.skills .container{
+    display: inline-block;
+    background-color: white;
+    width: 320px;
+    height: 40px;
+
+}
