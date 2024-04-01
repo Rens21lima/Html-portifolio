@@ -1,6 +1,6 @@
 .section{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     height: 855px ;
     background-color: #263764;
     background-size: 100%;
