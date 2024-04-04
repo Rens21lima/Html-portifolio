@@ -1,0 +1,14 @@
+.card-prc{
+    display: flex;
+    width: 280px;
+    height: 280px;
+    justify-content: center;
+    align-items: center;
+    background-color: #7C5E99;
+    box-shadow: 8px 11px 0 white;
+
+}
+
+.card-prc.-blue{
+    background-color: #4C5B84;
+}

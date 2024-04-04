@@ -1,0 +1,7 @@
+.wrapper-projects{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 139px;
+    margin-right: 149px;
+}

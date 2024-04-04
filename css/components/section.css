@@ -7,9 +7,22 @@
     box-sizing: border-box;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid red;
+    border-bottom: 10px solid #000;
     
 
 }
+
+.section-second{
+    display: flex;
+    flex-direction: column;
+    height: 855px ;
+    background-color: #000000;
+    background-size: 100%;
+    box-sizing: border-box;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #fff;
+}
+
 
 

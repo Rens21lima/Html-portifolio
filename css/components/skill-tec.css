@@ -1,9 +1,10 @@
 .skill-tec{
     display: flex;
+    justify-content: center;
     align-items: center;
-    font-family: "Bebas Neue", sans-serif ;
-    font-size: 25px;
-    color: white;
+    
+    
+    
 }
 
 .skill-tec .icon{
@@ -14,7 +15,9 @@
 
 .skill-tec .title{
     font-size: 30px;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
+    color: white;
+    font-family: "Bebas Neue", sans-serif ;
 }
 
 .skill-tec .right{
