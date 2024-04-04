@@ -12,7 +12,7 @@
 
 }
 
-.section-second{
+.section.-second{
     display: flex;
     flex-direction: column;
     height: 855px ;
