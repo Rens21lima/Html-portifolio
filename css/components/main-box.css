@@ -1,4 +1,4 @@
-.box{
+.main-box{
     display: inline-block;
     text-align: center;
     background-color: #3A4042;
@@ -9,6 +9,6 @@
     
 }
 
-.box .title{
+.main-box .title{
     margin-bottom: 28px;
 }
