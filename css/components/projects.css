@@ -1,7 +1,10 @@
+a{ text-decoration: none;
+}
+
 .projects{
     display: flex;
     flex-direction: column;
-    
+    text-decoration: none;
     
 }
 
@@ -10,5 +13,6 @@
     font-size: 30px;
     color: white;
     text-align: center;
+    
 }
 
