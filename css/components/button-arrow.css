@@ -15,7 +15,24 @@
     width: 100%;
     position: absolute;
     top: 38px;
+    left: 1px;
+     
 }
+
+.main-carousel .itens{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.main-carousel .elements{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    transform: translateX(400px);
+}
+
 
 .button-arrow.-left{
     width: 50px;
@@ -47,8 +64,6 @@
 }
 
 
-    
-
 .button-arrow .content{
     display: none;
 }
@@ -69,3 +84,4 @@
 .button-arrow .arrow:hover{
     filter: brightness(0) ;
 }
+
