@@ -1,0 +1,13 @@
+.main-footer{
+    background-color: #000000;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-footer .itens{
+    margin-right: 20px ;
+    margin-left: 20px;
+}

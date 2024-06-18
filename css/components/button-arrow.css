@@ -30,7 +30,8 @@
     display: flex;
     justify-content: space-between;
     width: 100%;
-    transform: translateX(400px);
+    transition: transform 200ms ease-in-out ;
+    
 }
 
 
